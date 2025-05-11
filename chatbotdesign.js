@@ -373,10 +373,10 @@
     `;
     
     chatContainer.innerHTML = newConversationHTML + chatInterfaceHTML;
+    
     const poweredByLink = chatContainer.querySelector('.chat-footer a');
 if (poweredByLink) {
-    poweredByLink.style.display = 'none';
-}
+    poweredByLink.style.display = 'none';}
 
     const toggleButton = document.createElement('button');
     toggleButton.className = `chat-toggle${config.style.position === 'left' ? ' position-left' : ''}`;
