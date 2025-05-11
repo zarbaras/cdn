@@ -296,7 +296,7 @@
             welcomeText: '',
             responseTimeText: '',
             poweredBy: {
-                text: 'Powered by ChocoBan',
+                text: 'Powered by n8n',
                 link: 'https://www.youtube.com'
             }
         },
