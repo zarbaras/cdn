@@ -360,7 +360,7 @@
             </div>
             <div class="chat-messages"></div>
             <div class="chat-input">
-                <textarea placeholder="Yazmaya başla..." rows="1"></textarea>
+                <textarea placeholder="Ymaya başla..." rows="1"></textarea>
                 <button type="submit">Gönder</button>
             </div>
             <div class="chat-footer">
