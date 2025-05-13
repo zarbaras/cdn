@@ -295,7 +295,10 @@
             name: '',
             welcomeText: '',
             responseTimeText: '',
-           
+            poweredBy: {
+                text: 'Powered by n8n',
+                link: 'https://n8n.partnerlinks.io/m8a94i19zhqq?utm_source=nocodecreative.io'
+            }
         },
         style: {
             primaryColor: '',
@@ -360,7 +363,7 @@
             </div>
             <div class="chat-messages"></div>
             <div class="chat-input">
-                <textarea placeholder="Ymaya başla..." rows="1"></textarea>
+                <textarea placeholder="Yazmaya başla..." rows="1"></textarea>
                 <button type="submit">Gönder</button>
             </div>
             <div class="chat-footer">
